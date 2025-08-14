@@ -1,5 +1,5 @@
 package test1;
-//sample programme1
+
 
 import static io.restassured.RestAssured.baseURI;
 import static io.restassured.RestAssured.given;
