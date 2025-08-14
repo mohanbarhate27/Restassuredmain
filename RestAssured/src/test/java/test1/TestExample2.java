@@ -1,6 +1,6 @@
 package test1;
 
-//import
+//sample programme
 import static io.restassured.RestAssured.*;
 import io.restassured.RestAssured;
 import io.restassured.matcher.ResponseAwareMatcher;
