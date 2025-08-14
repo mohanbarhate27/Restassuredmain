@@ -1,5 +1,5 @@
 package test1;
-//sample programme
+//sample programme1
 
 import org.testng.Assert;
 import org.testng.annotations.Test;
